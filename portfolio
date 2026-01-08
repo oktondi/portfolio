@@ -1,0 +1,8 @@
+portfolio/
+├─ index.html
+├─ style.css
+├─ gallery.html
+├─ images/
+│  ├─ painting1.jpg
+│  ├─ painting2.jpg
+│  └─ painting3.jpg
